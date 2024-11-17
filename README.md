@@ -5,6 +5,8 @@
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erickborges1230&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickborges1230)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso com maior e menor frequência no meu dia a dia
 
 <div style="display: inline_block"><br/>
